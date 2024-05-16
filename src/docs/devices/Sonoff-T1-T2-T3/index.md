@@ -11,7 +11,7 @@ using ESPHome.
 
 ![Product Image](/sonoff_1t_t3.png "Product Image")
 
-## T1
+## T1 AND T0-1C
 
 ``` yaml
 esp8266:
